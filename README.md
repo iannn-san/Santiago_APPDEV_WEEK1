@@ -1,4 +1,4 @@
 # smart_dashboard
 
-A new Flutter project.
+A new Flutter project by ian santiago
 
